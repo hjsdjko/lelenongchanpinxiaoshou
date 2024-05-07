@@ -1,10 +1,4 @@
-
-
-**(不是活雷锋，被卖毕设的坑了，报复卖毕设的。免费免费全部免费!!!!!)**
-
-**【不上传完整代码的原因是： 怕黑中介拉直接卖！！！】**
-
-[索要完整源码请点我 免费](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3438552322228256777#wechat_redirect)
+[点我查看本系统详细介绍](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3438552322228256777#wechat_redirect)
 
 关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
