@@ -6,6 +6,7 @@
 
 
 
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
@@ -18,10 +19,11 @@
 
 点击此网址在线查看本项目视频：▶️▶️▶️ [http://www.jsxs1.cn](http://www.jsxs1.cn) ◀️◀️◀️
 
-**【总项目数2855套、2024年6-9月新款项目850套。联系人工🉑免费获取】**
+**【总项目数2855套、2024年6-9月新款项目850套。💥联系人工,可免费获取一套源码💥】**
 
-完整源码联系 **人工客服24小时** 全天在线 **【QQ 979748385 】** 回复 **项目编号+项目名称** 即可获取！！！
+![图片描述](https://github.com/hjsdjko/hjsdjko/blob/main/contactMe.png)
 
+【新客服联系方式可以在官网中查看： [http://www.jsxs1.cn](http://www.jsxs1.cn) ！！！】
 ---
 
 **注意事项：**
@@ -32,7 +34,7 @@
 
 💥💥💥如果你想查找图书管理系统，只需要在网址中输入“图书”即可。
 
-![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
+![gov](https://github.com/hjsdjko/hjsdjko/blob/main/gov.png)
 
  
 
@@ -52,13 +54,11 @@
 
 
 
-> 4. **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
+![图片描述](https://github.com/hjsdjko/hjsdjko/blob/main/weixin.png)
 
 1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
-![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
-
-
+![weixingongzhonghao](https://github.com/hjsdjko/hjsdjko/blob/main/weixingongzhonghao.jpg)
 
 ---
 
